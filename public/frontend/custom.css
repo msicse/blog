@@ -1,0 +1,20 @@
+body {
+	margin-top:60px !important;
+}
+header .src-area .src-input {
+	top: 18px !important;
+
+}
+
+.favorite-post {
+    color: blue;
+}
+
+
+@media screen and (-webkit-min-device-pixel-ratio:0){
+	
+	header .src-area .src-input {
+		top: 0px !important;
+
+	}
+}
